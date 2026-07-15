@@ -1,0 +1,1 @@
+.snackbar[data-v-8cc05327]{position:fixed;bottom:24px;left:50%;transform:translate(-50%);padding:12px 24px;background:var(--vt-ink);color:var(--vt-bg);border-radius:8px;font-size:.875rem;z-index:200;pointer-events:none;animation:autohide-8cc05327 3s forwards}@keyframes autohide-8cc05327{0%,80%{opacity:1}to{opacity:0}}
